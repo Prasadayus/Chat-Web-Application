@@ -29,3 +29,26 @@ C:\xampp\htdocs\chatapp\
 * Click on the Choose File button and select the SQL file provided with the project i.e. chatapp.sql.
 * Click on the Go button to import the SQL file into the newly created database.
 
+   # Running the Application
+  * Open your web browser and navigate to:
+    ```
+    http://localhost/chatapp
+    ```
+* You should see the login or registration page of the chat application.
+* Register a new user or log in with existing credentials to start chatting.
+
+ # Features
+* Real-time Messaging: Send and receive messages instantly using Ajax.
+* User Authentication: Register new users and log in with existing accounts.
+* Responsive Design: The chat application is optimized for different screen sizes.
+
+# Technologies Used
+* Frontend: HTML, CSS, JavaScript (Ajax)
+* Backend: PHP
+* Database: MySQL
+
+# Contribution
+Feel free to fork the project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
+# License
+This project is licensed under the MIT License.
